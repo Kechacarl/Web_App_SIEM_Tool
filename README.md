@@ -52,7 +52,6 @@ Kibana: Version 8.9.2
 Filebeat: Version 8.9.2
 
 🏁 Installation and Setup
-
 1. Setup the Elastic Stack
 Follow the official documentation to install Elasticsearch, Kibana, and Filebeat on your host machine. Ensure all services are running and that Kibana is connected to Elasticsearch.
 
